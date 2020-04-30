@@ -1,0 +1,14 @@
+.dim{
+    height: 350px;
+    width: 250px;
+    margin-right: 50px;
+}
+body{
+    background-color: #c3c0c0;
+}
+.marge{
+    margin: 50px;
+}
+p{
+    width: 650px;
+}

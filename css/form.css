@@ -1,0 +1,35 @@
+main{
+    display: flex;
+    align-items: center;
+}
+#centrage{
+    background-image: url(/img/livreConnexion.jpg);
+    background-repeat: no-repeat;
+    height: 670px;
+    width: 450px;
+    display: flex;
+    align-items: center;
+}
+div{
+    color: white;
+}
+#formu{
+    margin: 85px;
+}
+#formbut{
+    margin-left: 100px;
+}
+.ecrire{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+input{
+    background-color: #00000066;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+#nameForm{
+    margin-right: 10px;
+    margin-left: 10px;
+}

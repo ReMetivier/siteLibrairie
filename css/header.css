@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.flex{
+    display: flex;
+}
+body{
+    background-color:  #c3c0c0;
+}
+.icone{
+    height: 50px;
+    width: 50px;
+    border: none;
+}
+#logo{
+    height: 50px;
+    width: 500px;
+    margin-left: 25px;
+}
+header ul {
+    width: 100%;
+    justify-content: flex-end;
+}
+header li{
+    margin: 25px;
+}
+header{
+    background-color: grey;
+}
+nav{
+    height: 75px;
+    align-items: center;
+    justify-content: center;
+}
+#imageUser{
+    border: 3px solid black;
+}
+div > p{
+    margin: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#imageUser{
+    height: 200px;
+    width: 200px;
+}
+#deco{
+    margin-left: 25px;
+}
+#livreCrypto{
+    height: 50px;
+    width: 50px;
+    margin-right: 25px;
+}
